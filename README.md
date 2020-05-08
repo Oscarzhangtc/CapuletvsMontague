@@ -37,6 +37,8 @@ speak. Running the program on another text, especially one that’s not a play, 
 accurate results.
 
 # Results
+
+
 ```bash
 There are 6 Montagues and 13 Capulets in Romeo and Juliet.{'Chor.': ('Neither', 2),
 'Samp.': ('Capulet', 20), 'Greg.': ('Capulet', 15), 'Abr.': ('Montague', 5), 'Bal.': ('Montague',
@@ -52,6 +54,8 @@ Serv.': ('Capulet', 2), '3. Serv.': ('Capulet', 1), '2. Cap.': ('Capulet', 2)}
 17.90909090909091}
 ```
 ![ Data visualized](/images/visualization.png)
+
+
 In the graph, the characters with highest numbers of speaking times are visualized. the main
 driver of dialogues is unsurprisingly the main character Romeo and Juliet. And the most of the
 frequently spoken characters are Montagne characters. However, what stood out is the fact the
