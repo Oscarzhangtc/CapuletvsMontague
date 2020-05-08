@@ -10,10 +10,11 @@ analysis without having to pull the text and query the api every time.
 
 # To run this project
 Make sure [python](https://www.python.org/downloads/) is installed on your device. 
+No packages needs to be installed.
 
 Run in terminal:
 ```bash
-python textMining.py
+python textProcessing.py
 ```
 
 # Implementation
