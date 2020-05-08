@@ -1,6 +1,6 @@
 Oscar Zhang
 
-#Project Overview
+# Project Overview
 Having been curious about old english literatures, I wanted to analyze the familiar story of
 Romeo and Juliet and compare the frequency of speech between the two houses Capulets and
 Montague as well as the non-house characters. From a software design aspect, I also wanted
@@ -16,7 +16,7 @@ Run in terminal:
 python textMining.py
 ```
 
-#Implementation
+# Implementation
 To begin, in my textMining.py file, I used Python's pickle module to store a local copy of the text
 for it to be loaded, parsed and analyzed in the textProcessing.py file. I chose dictionaries to
 represent my processed data as best represent key-value pairs with increments. Intuitively, the
@@ -36,7 +36,7 @@ composed mostly of dialogues and the name of the character comes conveniently be
 speak. Running the program on another text, especially one that’s not a play, it would not yield
 accurate results.
 
-#Results
+# Results
 ```bash
 There are 6 Montagues and 13 Capulets in Romeo and Juliet.{'Chor.': ('Neither', 2),
 'Samp.': ('Capulet', 20), 'Greg.': ('Capulet', 15), 'Abr.': ('Montague', 5), 'Bal.': ('Montague',
