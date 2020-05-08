@@ -8,7 +8,7 @@ to practice working with text files and build a function program from scratch. T
 the restriction imposed by project gutenberg, I used pickle to save and pre-load the data for
 analysis without having to pull the text and query the api every time.
 
-# To run this project
+# Usage
 Make sure [python](https://www.python.org/downloads/) is installed on your device. 
 No packages needs to be installed.
 
