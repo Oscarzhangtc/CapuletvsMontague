@@ -1,4 +1,7 @@
-'''Oscar Zhang
+'''
+Author: Oscar Zhang
+Project 3: Text Mining
+Software Design
 
 A script that pull the text shakespeare's Romeo & Juliet from ProjectGutenberg online and pickles it'''
 
