@@ -1,6 +1,4 @@
 '''Oscar Zhang
-Software Design Spring 2020
-Mini Project 3: Text Mining
 
 A script that pull the text shakespeare's Romeo & Juliet from ProjectGutenberg online and pickles it'''
 
