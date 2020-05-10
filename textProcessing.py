@@ -1,6 +1,6 @@
-'''Mini Project 3: Text Mining
-Software Design Spring 2020
-Oscar Zhang
+'''
+
+Author: Oscar Zhang
 
 This script parses the text of Romeo Juliet from Project Gutenberg, counts how often each character speaks
 speaks, and returns the average number of times of the Capulets spoke versus Montagues. '''
